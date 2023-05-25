@@ -1,12 +1,27 @@
-# Python-GIMP-Poster
-Poster created within GIMP using Python
+# Python GIMP Poster
+
+This is a Python script that generates a poster using the GIMP image editor. The poster contains a random quote and a background image.
+
+## Installation
+
+1. Install GIMP on your computer.
+2. Clone this repository to your local machine.
+3. Install the required Python packages by running `pip install -r requirements.txt`.
+
+## Usage
+
+1. Open a terminal and navigate to the project directory.
+2. Run the script by executing `python poster.py`.
+3. The poster will be generated and saved in the `output/` directory.
+
+## About the Project
 
 After researching existing jazz posters, I found that many posters used simple imagery with block colours and instrument silhouettes.
 I decided to create a poster with these elements. I wanted the central theme of the poster to be energetic, so I chose a volcano to be the focus of the poster,
 incorporating instruments to drive the musical theme. I found a colour palette synonymous with jazz that also suited my theme. 
 I chose my slogan as it was short but conveyed a reason to go to the Jazz Festival.
 
-Design Principles:
+###Design Principles:
 
   •  Symmetrical Balance: 
 
