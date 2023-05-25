@@ -21,7 +21,7 @@ I decided to create a poster with these elements. I wanted the central theme of 
 incorporating instruments to drive the musical theme. I found a colour palette synonymous with jazz that also suited my theme. 
 I chose my slogan as it was short but conveyed a reason to go to the Jazz Festival.
 
-###Design Principles:
+##Design Principles:
 
   •  Symmetrical Balance: 
 
